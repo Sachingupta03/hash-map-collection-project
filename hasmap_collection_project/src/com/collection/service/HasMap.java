@@ -5,7 +5,7 @@ import com.collection.model.Person;
 import java.util.HashMap;
 import java.util.Map;
 
-public class HasMap {
+public class HashMap {
     public static void main (String[] args) {
         //Create a HashMap to store Person object with Integer as the key (ID)
         Map<Integer,Person>personMap = new HashMap<> ();
